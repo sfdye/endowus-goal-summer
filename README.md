@@ -19,7 +19,7 @@ A browser userscript that adds a floating panel to the [Endowus](https://app.sg.
    - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Edge, Firefox, Safari)
    - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Edge, Firefox)
 2. Install the script:
-   - **From Greasy Fork:** *(link added after first publish)*
+   - **From Greasy Fork:** <https://greasyfork.org/en/scripts/585651-endowus-goal-summer>
    - **From GitHub:** open [`endowus-goal-summer.user.js`](https://raw.githubusercontent.com/sfdye/endowus-goal-summer/main/endowus-goal-summer.user.js) — your userscript manager will prompt to install.
 3. Open <https://app.sg.endowus.com/dashboard> and log in. The **Goal Summer** panel appears bottom-right.
 

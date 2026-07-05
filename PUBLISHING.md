@@ -42,5 +42,3 @@ too, via the `@updateURL`/`@downloadURL` pointing at the same raw file.
 - Keep `@downloadURL`, `@updateURL`, and the Greasy Fork sync URL all pointing at
   the `main` branch raw file so GitHub-installed and Greasy-Fork-installed users
   stay in lockstep.
-- The `Validate userscript` GitHub Action checks syntax and the metadata block on
-  every push, so a broken script never reaches `main`.
